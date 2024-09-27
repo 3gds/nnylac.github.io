@@ -1,0 +1,25 @@
+1. At least 4 different .html pages
+    - includes index.html which is to be the main page
+    - should be possible to get from any page on the website to any other page by following one or more hyperlinks
+
+2. 10 distinct HTML tags
+    - besides html, head, body, title
+
+3. one or more features from Bootstrap
+
+4. at least one stylesheet of own creation (CSS)
+    - use at least 5 different CSS selectors
+    eg
+        tag (example)
+        class (.example)
+        ID (#example)
+
+    - use at least 5 different CSS properties:
+    eg
+        font-size
+        margin
+
+5. One or more JavaScript features
+
+
+

@@ -1,0 +1,80 @@
+possible ideas:
+
+    1. Portfolio
+        - if done, I intend for this to be a CV of sorts when
+        applying for uni internships and even NUS Investment Society
+        - to include:
+            a. As results including H3
+            b. uni combi (assume major QF + minor phy + minor CS)
+            c. courses I've taken:
+                -CS50
+                -CS50P
+                -CS50R
+                -fundmentals of quantitative modelling
+            d. textbooks relevant to the uni courses i'm taking for:
+                -introduction to quantitative finance
+                -calculus
+                -multivariable calculus
+                -electricity & magnetism I
+
+                -linear algebra
+                -probability
+                -regression analysis
+                -numerical analysis I
+        - i don't feel that a portfolio at this time will be able to
+        provide much value for any possible applications in the near
+        future. or rather, there isn't enough content to justify making
+        a whole website just for this. Furthermore, there are many
+        dedicated CV website templates out there that are definitely
+        much more pretty to look at with much less effort.
+
+    2. HSR Planner
+        - general ideas:
+            a. take reference from arknights krooster page
+
+        - tool bar at top of all pages:
+            a. characters
+            b. relics
+            c. teams
+
+        - main page:
+            a. Current banner with infographic and duration
+            b. (animated) background (of FX?!)
+            c. Upcoming banners with infographic and duration
+
+        - character page:
+            a. all characters (can be lazy and just include obtained ones first)
+            b. each character upon clicked on will show a popup:
+                i. OWN button (if so, character lights up in main page
+                otherwise will remain dull)
+                ii. Element
+                iii. Path
+                iv. Recommended (P2W & F2P) Lightcones (when selected, lights up)
+                v. Recommended relic set(s) and substats
+                vi. Actual relics with substats (choose from menu from Relics)
+
+    3. Calynn's birthday present
+
+        - Main page:
+            a. "Happy Birthday Calynn" in big words across screen
+            b. "Dedicated to my girlfriend" in small words across screen
+            c. small menu at top right(present on all pages) to redirect to other pages
+
+        - How we Met:
+            a. JC photos "flowing" across screen horizontally
+            b. "How We Met" in big words at top of screen
+            c. some sort of old time black white aesthetic
+
+        - Places we went:
+            a. random outing photos "flowing" across screen horizontally
+            b. "Places We Went" in big words at top of screen
+            c. colourful, pink aesthetics
+
+         - Our Third Wheel:
+            a. random outing photos with xinyi "flowing" across screen horizontally
+            b. "Our Third Wheel" in big words at top of screen
+            c. literal wheel somewhere
+            d. pink aesthetic as well but not as colourful as "Places we went"
+
+
+
